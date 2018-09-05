@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contacts Data</string>
+    
+    <string name="fullname_title">Full Name</string>
+    <string name="phone_title">Phone Numbers</string>
+
+    <string name="imageView">Image holder</string>
+</resources>
